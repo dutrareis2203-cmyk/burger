@@ -1,19 +1,3 @@
-.contato-container {
-    display: flex;
-    justify-content: center; /* centraliza */
-    align-items: center;     /* alinha na mesma altura */
-    gap: 40px;
-    margin-top: 30px;
-}
- 
-.formulario {
-    width: 400px;
-}
- 
-.mapa {
-    max-width: 450px;
-}
- 
 let total = 0;
 let pedidos = [];
  
